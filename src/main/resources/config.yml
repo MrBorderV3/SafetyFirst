@@ -1,0 +1,8 @@
+notAPlayer: "&cOnly players may execute this command!"
+noPermission: "&cYou do not have permission to execute this command!"
+illegalArguments: "&cIllegal Arguments! Please try again with the correct arguments!"
+targetOffline: "&b%target% &cIs offline or does not exist!"
+
+Messages:
+  ItemsFell: "&cYou did not have space for some or all the items on your head in your inventory so they have been dropped at your location."
+  ItemsMoved: "&cThe items on your head have been moved to your inventory"
