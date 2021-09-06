@@ -1,5 +1,4 @@
 name: SafetyFirst
-version: ${project.version}
+version: 1.0
 main: me.border.safetyfirst.SafetyFirst
-api-version: 1.17
-authors: [ MrBorder ]
+author: MrBorder
